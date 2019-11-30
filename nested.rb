@@ -82,7 +82,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash.first = {:yukihiro_matsumoto => {}}
+programmer_hash.push = {:yukihiro_matsumoto => {}}
     
 end
 
